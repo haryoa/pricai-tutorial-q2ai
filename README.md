@@ -6,10 +6,11 @@ Contains slide, KD, and Colab link of PEFT
 - KD.ipynb contains KD's notebook.
 - For PEFT, you can access the URL inside the slide!
 
-## Library used
+## Library used (Python)
 
 - `lightning`
 - `torch`
 - `torchmetrics`
 - `datasets`
+- `peft`
 - `transformers`
